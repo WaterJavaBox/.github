@@ -24,9 +24,11 @@
 
 ## 💻 主要成員使用語言
 ### [Calou](https://github.com/YQ-Calou)
-- Javascript
 - Nodejs (ES6 and CommandJS)
 - Python
+- HTML
+- CSS
+- Javascript
 
 ### [Javaowo](https://github.com/javaowo)
 - Python
