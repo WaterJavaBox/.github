@@ -42,6 +42,27 @@
 
 <br>
 
+## ✨ 團隊可使用語言
+- Nodejs (ES6 and CommandJS)
+- Python
+- HTML
+- CSS
+- Javascript
+- C
+- C++
+- C#
+- VB
+- VBScript
+- ASP
+- ASP.net
+- PHP
+- MySQL Command
+- Lua
+- Shell
+- Batch
+
+<br>
+
 ## ☎️ 聯絡我們
 - Gmail (Calou) : chou.addison@gmail.com
 
