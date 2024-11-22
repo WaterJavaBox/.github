@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="icon.png" style="min-width:250px; width:25%">
   <h1>
     WaterJavaBox 
   </h1>
