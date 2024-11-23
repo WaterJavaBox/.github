@@ -32,6 +32,7 @@
 
 ### [Javaowo](https://github.com/javaowo)
 - Python
+- C++
 
 ### [Katsuru](https://github.com/HM-Lay)
 - Javascript
