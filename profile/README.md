@@ -36,6 +36,8 @@
 ### [Katsuru](https://github.com/HM-Lay)
 - Javascript
 - Nodejs (CommandJS)
+- HTML
+- CSS
 
 ### [GuoZhen](https://github.com/Guozhen87)
 - Nothing
