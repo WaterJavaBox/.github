@@ -34,7 +34,7 @@
 - Python
 - C++
 
-### [Katsuru/Lay](https://github.com/HM-Lay)
+### [Katsuru/Lay](https://github.com/HM-Rey)
 - Javascript
 - Nodejs (CommandJS)
 - HTML
