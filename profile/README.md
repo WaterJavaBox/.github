@@ -34,7 +34,7 @@
 - Python
 - C++
 
-### [hoshimiyaRey/KZR](https://github.com/HM-Rey)
+### [HM-Rey/KZR](https://github.com/HM-Rey)
 - Javascript
 - Nodejs (CommandJS)
 - HTML
