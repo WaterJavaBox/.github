@@ -36,7 +36,7 @@
 
 ### [HM-Rey/KZR](https://github.com/HM-Rey)
 - Javascript
-- Nodejs (CommandJS)
+- Nodejs (CommandJS and ES6)
 - HTML
 - CSS
 
